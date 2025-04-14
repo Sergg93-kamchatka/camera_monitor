@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+
+# Данные приложения
+captured_cars/
+logs/
+*.log
+
+# Настройки IDE
+.vscode/
+.idea/
