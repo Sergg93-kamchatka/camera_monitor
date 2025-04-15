@@ -11,6 +11,5 @@ logs/
 .vscode/
 # Временные файлы
 *.log
-*.tmp"config/config.ini" 
-"config/config.ini" 
-"config/config.ini" 
+*.tmp
+config/config.ini
