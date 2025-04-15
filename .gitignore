@@ -1,16 +1,15 @@
-# Python
-__pycache__/
-*.py[cod]
-*.so
-.Python
-env/
+# Виртуальное окружение
 venv/
-
-# Данные приложения
+# Папка с изображениями
 captured_cars/
+# Кэш Python
+__pycache__/
+*.pyc
+# Логи
 logs/
-*.log
-
-# Настройки IDE
+# VS Code
 .vscode/
-.idea/
+# Временные файлы
+*.log
+*.tmp"config/config.ini" 
+"config/config.ini" 
